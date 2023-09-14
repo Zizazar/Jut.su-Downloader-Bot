@@ -5,7 +5,7 @@ import youtube_dl
 import telebot
 from telebot import types
 import os
-TOKEN = '5798900108:AAE57bxYoj_esbVXqRdTWeWJxv0hsbsoYcE'
+TOKEN = ''
 bot = telebot.TeleBot(TOKEN)
 
 IsSearch = True
